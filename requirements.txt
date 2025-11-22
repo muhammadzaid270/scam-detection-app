@@ -1,0 +1,13 @@
+easyocr
+opencv-python
+Pillow
+numpy
+pytesseract
+gradio
+langdetect
+arabic_reshaper
+python-bidi
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
